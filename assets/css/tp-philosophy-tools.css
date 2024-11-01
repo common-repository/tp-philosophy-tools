@@ -1,0 +1,117 @@
+.social-icons li a[href*="facebook.com"]:before,
+.social-icons li a[href*="fb.com"]:before {
+  content: "\f09a";
+  background-color: #3a559f;
+}
+.social-icons li a[href*="twitter.com"]:before {
+  content: "\f099";
+  background-color: #50abf1;
+}
+.social-icons li a[href*="linkedin.com"]:before {
+  content: "\f0e1";
+  background-color: #0077B5 ;
+}
+.social-icons li a[href*="plus.google.com"]:before {
+  content: "\f0d5";
+  background-color: #dd4b39;
+}
+.social-icons li a[href*="youtube.com"]:before {
+  content: "\f04b";
+  background-color: #cc181e ;
+}
+.social-icons li a[href*="dribbble.com"]:before {
+  content: "\f17d";
+  background-color: #f4a09c ;
+}
+.social-icons li a[href*="pinterest.com"]:before {
+  content: "\f0d2";
+  background-color: #BD081C ;
+}
+.social-icons li a[href*="bitbucket.org"]:before {
+  content: "\f171";
+  background-color: #205081 ;
+}
+.social-icons li a[href*="github.com"]:before {
+  content: "\f113";
+  background-color: #323131 ;
+}
+.social-icons li a[href*="codepen.io"]:before {
+  content: "\f1cb";
+  background-color: #000000 ;
+}
+.social-icons li a[href*="flickr.com"]:before {
+  content: "\f16e";
+   background-color: #025FDF ;
+}
+.social-icons li a[href$="/feed/"]:before {
+  content: "\f09e";
+   background-color: #089DE3 ;
+}
+.social-icons li a[href*="foursquare.com"]:before {
+  content: "\f180";
+  background-color: #F94877 ;
+}
+.social-icons li a[href*="instagram.com"]:before {
+  content: "\f16d";
+   background-color: #6E52C3 ;
+}
+.social-icons li a[href*="tumblr.com"]:before {
+  content: "\f173";
+   background-color: #56BC8A ;
+}
+.social-icons li a[href*="reddit.com"]:before {
+  content: "\f1a1";
+   background-color: #FF4500 ;
+}
+.social-icons li a[href*="vimeo.com"]:before {
+  content: "\f194";
+   background-color: #00ADEF ;
+}
+.social-icons li a[href*="digg.com"]:before {
+  content: "\f1a6";
+   background-color: #00ADEF ;
+}
+.social-icons li a[href*="twitch.tv"]:before {
+  content: "\f1e8";
+   background-color: #0E9DD9 ;
+}
+.social-icons li a[href*="stumbleupon.com"]:before {
+  content: "\f1a4";
+   background-color: #EB4924 ;
+}
+.social-icons li a[href*="delicious.com"]:before {
+  content: "\f1a5";
+   background-color: #0076E8 ;
+}
+.social-icons li a[href*="mailto:"]:before {
+  content: "\f0e0";
+   background-color: #4169E1 ;
+}
+.social-icons li a[href*="soundcloud.com"]:before {
+  content: "\f1be";
+   background-color: #FF5500 ;
+}
+.social-icons li a[href*="wordpress.org"]:before {
+  content: "\f19a";
+   background-color: #0073AA ;
+}
+.social-icons li a[href*="wordpress.com"]:before {
+  content: "\f19a";
+   background-color: #00AADC ;
+}
+.social-icons li a[href*="jsfiddle.net"]:before {
+  content: "\f1cc";
+   background-color: #396AB1 ;
+}
+.social-icons li a[href*="tripadvisor.com"]:before {
+  content: "\f262";
+   background-color: #FFE090 ;
+}
+.social-icons li a[href*="angel.co"]:before {
+  content: "\f209";
+   background-color: #000000 ;
+}
+.social-icons li a[href*="slack.com"]:before {
+  content: "\f198";
+  background-color: #DD1B50 ;
+}
